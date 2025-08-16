@@ -8,4 +8,4 @@ main()
 }
 ```
 
-Just run `make` in the root and that needs `gcc` and `make` to compile and also `git` to clone it
+Just run `make` in the root and that needs `gcc` and `make` to compile and also `git` to clone it.
