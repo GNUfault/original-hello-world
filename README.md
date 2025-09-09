@@ -1,5 +1,5 @@
-# Original "hello, world"
-Compiling the original "hello, world" C code with modern GCC
+# Original Bell labs "hello, world" in C with modern GCC
+Compiling the original "hello, world" C code from Bell labs from 1974 with modern GCC
 
 ```
 main() {
