@@ -2,8 +2,7 @@
 Compiling the original "hello, world" C code with modern GCC
 
 ```
-main()
-{
+main() {
     printf("hello, world\n");
 }
 ```
